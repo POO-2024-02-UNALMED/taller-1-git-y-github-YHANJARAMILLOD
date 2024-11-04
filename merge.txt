@@ -1,1 +1,7 @@
-AHORA PODEMOS CREAR UN COMMIT Y SUBIR LA CARPETA YA QUE LA CARPETA AHORA NO ESTA VACIA Y TIENE UN DOCUMENTO
+AHORA PODEMOS CREAR UN COMMIT Y SUBIR LA CARPETA YA QUE LA CARPETA AHORA NO ESTA VACIA Y TIENE UN DOCUMENTO.
+Es importante tener cuidado al modificar un archivo desde distintas
+ubicaciones en GitHub para evitar conflictos de fusión, 
+pérdida de datos y problemas de sincronización.
+Modificaciones simultáneas pueden llevar a un historial de cambios desordenado y dificultar la colaboración.
+Un flujo de trabajo ordenado, que incluya sincronización y comunicación,
+ayuda a mantener el proyecto organizado y libre de errores.
